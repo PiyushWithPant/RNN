@@ -1,7 +1,5 @@
 # 🎬 IMDB Movie Review Sentiment Analysis (RNN with PyTorch)
 
-This repository contains an implementation of a Recurrent Neural Network (RNN) for text generation.
-
 ---
 
 ## Overview 📝
@@ -9,6 +7,8 @@ This repository contains an implementation of a Recurrent Neural Network (RNN) f
 This project implements a **Recurrent Neural Network (RNN)** using **PyTorch** to classify the sentiment (Positive/Negative) of movie reviews from the classic **IMDB dataset**.
 
 The model is trained using word embeddings and a simple RNN layer and achieves a good baseline performance on the sentiment classification task.
+
+The main objective of this project is to understand a simple RNN and how to get word embeddings from text, then use them to train the RNN. This project helped me to understand a lot about Machine Learning algorithms employed in NLP domain and I hope it does the same for you :-) 
 
 ---
 
